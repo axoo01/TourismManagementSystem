@@ -7,13 +7,13 @@ A Java project showcasing clean OOP design through a real-world tour booking sys
 
 ### One abstract class TourBooking with 4 concrete subclasses
 
-- LocalIndividualBooking
+- Local Individual Booking
 
-- LocalGroupBooking
+- Local Group Booking
 
-- InternationalIndividualBooking
+- International Individual Booking
 
-- InternationalGroupBooking
+- International Group Booking
 
 ## Smart validations
 
