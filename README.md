@@ -4,7 +4,7 @@ A Java project showcasing clean OOP design through a real-world tour booking sys
 ## Key Highlights
 - 4 OOP pillars: Abstraction, Inheritance, Polymorphism, Encapsulation
 
-### One abstract class TourBooking with 4 concrete subclasses:
+### One abstract class TourBooking with 4 concrete subclasses
 
 - LocalIndividualBooking
 
@@ -14,7 +14,7 @@ A Java project showcasing clean OOP design through a real-world tour booking sys
 
 - InternationalGroupBooking
 
-## Smart validations:
+## Smart validations
 
 - Age, nationality, passport check, group size, travel dates, weekdays-only booking
 
